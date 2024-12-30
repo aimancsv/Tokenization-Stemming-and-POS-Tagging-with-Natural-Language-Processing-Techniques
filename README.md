@@ -21,9 +21,10 @@ This repository focuses on essential text preprocessing steps critical for natur
 2. **Stop Word and Punctuation Removal**:
    - Demonstrates the removal of low-value words (e.g., "the", "and") and punctuation using NLTK’s stop word corpus and custom regex functions.
    - Highlights the impact of stop word filtering on text analysis tasks such as sentiment analysis and topic modeling.
-<img width="700" alt="Screenshot 2024-12-30 at 11 52 30 AM" src="https://github.com/user-attachments/assets/23256a25-3f4e-42d0-9808-320d67dbf186" />
-<img width="700" alt="Screenshot 2024-12-30 at 11 53 28 AM" src="https://github.com/user-attachments/assets/c1d1cd05-394c-4c6a-879d-abc5b877a686" />
-<img width="700" alt="Screenshot 2024-12-30 at 11 53 50 AM" src="https://github.com/user-attachments/assets/273cc34a-e519-492a-9cb1-0661c971e476" />
+   - <img width="700" alt="Screenshot 2024-12-30 at 11 52 30 AM" src="https://github.com/user-attachments/assets/23256a25-3f4e-42d0-9808-320d67dbf186" />
+   - <img width="700" alt="Screenshot 2024-12-30 at 11 53 28 AM" src="https://github.com/user-attachments/assets/c1d1cd05-394c-4c6a-879d-abc5b877a686" />
+   - <img width="700" alt="Screenshot 2024-12-30 at 11 53 50 AM" src="https://github.com/user-attachments/assets/273cc34a-e519-492a-9cb1-0661c971e476" />
+
 
 3. **Stemming**:
    - Implementation of various stemming techniques to reduce words to their root forms:
