@@ -57,7 +57,8 @@ This repository focuses on essential text preprocessing steps critical for natur
 
 
 ### Value Proposition
-- By combining these text preprocessing techniques, this module establishes a strong foundation for NLP tasks like sentiment analysis, text classification, and semantic understanding. The - - insights provided by tokenization, stemming, and POS tagging empower machine learning models to work with cleaner, more structured text data.
+- By combining these text preprocessing techniques, this module establishes a strong foundation for NLP tasks like sentiment analysis, text classification, and semantic understanding.
+- The insights provided by tokenization, stemming, and POS tagging empower machine learning models to work with cleaner, more structured text data.
 
 ### Use Cases
 - Preprocessing raw text for sentiment analysis and predictive modeling.
