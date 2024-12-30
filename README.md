@@ -5,7 +5,7 @@ This repository focuses on essential text preprocessing steps critical for natur
 
 ### Key Components
 1. **Tokenization**:
-2. **The sentence**: Textual information in the world can be broadly categorized into two main types: facts and opinions. Facts are objective expressions about entities, events, and their properties. Opinions are usually subjective expressions that describe people’s sentiments, appraisals, or feelings toward entities, events, and their properties. 
+   **The sentence**: Textual information in the world can be broadly categorized into two main types: facts and opinions. Facts are objective expressions about entities, events, and their properties. Opinions are usually subjective expressions that describe people’s sentiments, appraisals, or feelings toward entities, events, and their properties. 
    - Implementation of multiple tokenization methods, including:
      - **Split Function**: A straightforward approach using whitespace as delimiters.
      - <img width="769" alt="Screenshot 2024-12-30 at 11 49 40 AM" src="https://github.com/user-attachments/assets/fd25591a-6cd3-4bd8-a3cc-a7c23eaeaa02" />
